@@ -21,7 +21,7 @@ The easiest way to install this is using 
 - pip install SpeechRecognition.
 
 How does Speech recognition work?
-![Pyttsx3](pyttsx3.png)
+![Pyttsx3](image.png)
 
 **Pyttsx3 Module**
 
