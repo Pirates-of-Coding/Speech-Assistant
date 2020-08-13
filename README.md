@@ -2,6 +2,7 @@
 A voice based Assistant module written in Python using Pyttsx3.
 
 Speech recognition system basically translates spoken languages into text.
+This code is maintained by @bajpaisiddhant
 
 
 ## Requirements :-
